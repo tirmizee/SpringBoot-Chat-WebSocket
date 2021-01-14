@@ -9,3 +9,5 @@
 - https://stackoverflow.com/questions/50573461/spring-websockets-authentication-with-spring-security-and-keycloak
 - https://stackoverflow.com/questions/45405332/websocket-authentication-and-authorization-in-spring
 - https://github.com/Rob-Leggett/angular_websockets_security/blob/master/security/src/main/java/au/com/example/security/spring/security/interceptor/TokenSecurityChannelInterceptor.java
+- https://github.com/jmesnil/stomp-websocket (Stomp)
+- https://github.com/stomp-js/stompjs (Stomp)
