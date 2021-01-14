@@ -11,3 +11,4 @@
 - https://github.com/Rob-Leggett/angular_websockets_security/blob/master/security/src/main/java/au/com/example/security/spring/security/interceptor/TokenSecurityChannelInterceptor.java
 - https://github.com/jmesnil/stomp-websocket (Stomp)
 - https://github.com/stomp-js/stompjs (Stomp)
+- https://stomp-js.github.io/stomp-websocket/codo/extra/docs-src/Usage.md.html
