@@ -2,6 +2,11 @@
 
 ### Table
 
+- users
+- chat_room
+- chat_room_user
+- chat_message
+
 ### SQL
 
 ```sql
