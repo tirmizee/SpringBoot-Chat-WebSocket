@@ -1,4 +1,4 @@
-# SpringBoot-WebSocket
+# SpringBoot-Chat-WebSocket
 
 ### Table
 
