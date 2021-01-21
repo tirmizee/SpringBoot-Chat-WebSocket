@@ -213,3 +213,4 @@ AND R.TYPE = 'P'
 - https://github.com/jmesnil/stomp-websocket (Stomp)
 - https://github.com/stomp-js/stompjs (Stomp)
 - https://stomp-js.github.io/stomp-websocket/codo/extra/docs-src/Usage.md.html
+- https://github.com/kingofthestack/react-chat-window
