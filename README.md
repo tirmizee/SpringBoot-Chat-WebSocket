@@ -1,5 +1,13 @@
 # SpringBoot-Chat-WebSocket
 
+### Technology stack
+
+- Spring boot
+- Apache Kafka
+- Mysql & Mongo
+- React
+- WebSocket 
+
 ### Table
 
 - users
