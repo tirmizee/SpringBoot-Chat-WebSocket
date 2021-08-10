@@ -4,7 +4,7 @@
 
 - Spring boot
 - Apache Kafka
-- Mysql & Mongo
+- Mysql
 - React
 - WebSocket 
 
